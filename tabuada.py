@@ -4,4 +4,4 @@ multiple = 0
 print(f"TABUADA DE {number}")
 for i in range(1,11): 
     multiple += 1 
-    print(f"{number} x {multiplo} = {number * i}")
+    print(f"{number} x {multiple} = {number * i}")
